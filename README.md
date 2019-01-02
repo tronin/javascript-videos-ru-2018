@@ -714,5 +714,14 @@
 | [Александр Канунников - AsyncDom](https://youtu.be/qZaby7iOVts) | 25:49 | [:notebook:](https://docs.google.com/presentation/d/12eFghswDeHfQWhZjh2B3vOsYc2DrBAcJLQr_6bGMfK8/edit#slide=id.p) |
 | [Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег](https://youtu.be/-wM-JmF1-VM) | 31:22 | [:notebook:](https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/yamoney-refactoring.pdf) |
 
+## ReactBerlin №22
+
+Событие: https://reactday.berlin/
+
+Дата: **30 ноября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Список всех докладов на Youtube (обновляемый)](https://youtu.be/wzB6mOblE1I) | 16+ часов | [:notebook:]
 
 ----
