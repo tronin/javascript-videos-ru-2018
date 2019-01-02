@@ -722,6 +722,6 @@
 
 | | | |
 | --- | :---: | --- |
-| [Список всех докладов на Youtube (обновляемый)](https://youtu.be/wzB6mOblE1I) | 16+ часов | [:notebook:]
+| [Список всех докладов на Youtube (обновляемый)](https://youtu.be/wzB6mOblE1I) | 16+ часов | [:notebook:] |
 
 ----
